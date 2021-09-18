@@ -1,0 +1,44 @@
+Captain: Mecole Hardman
+Daniel Carlson Darren Waller Travis Kelce
+Derek Carr Patrick Mahomes      Projected: 97.2
+
+Captain: Daniel Carlson
+Tyreek Hill Devontae Booker Darren Waller
+Travis Kelce Patrick Mahomes      Projected: 96.85
+
+Captain: Darren Waller
+Devontae Booker Mecole Hardman Josh Jacobs
+Patrick Mahomes Travis Kelce      Projected: 97.15
+
+Captain: Patrick Mahomes
+Mecole Hardman Daniel Carlson Darren Waller
+Demarcus Robinson Travis Kelce      Projected: 96.85
+
+Captain: Mecole Hardman
+Darren Waller Henry Ruggs Patrick Mahomes
+Clyde Helaire Tyreek Hill      Projected: 95.2
+
+Captain: Daniel Carlson
+Devontae Booker Darren Waller Patrick Mahomes
+Tyreek Hill Travis Kelce      Projected: 96.85
+
+Captain: Travis Kelce
+Mecole Hardman Patrick Mahomes Devontae Booker
+Daniel Carlson Tyreek Hill      Projected: 95.7
+
+Captain: Darren Waller
+Patrick Mahomes Mecole Hardman Clyde Helaire
+Daniel Carlson Derek Carr      Projected: 95.65
+
+Captain: Mecole Hardman
+Harrison Butker Demarcus Robinson Patrick Mahomes
+Tyreek Hill Travis Kelce      Projected: 92.1
+
+Captain: Darren Waller
+Patrick Mahomes Mecole Hardman Daniel Carlson
+Clyde Helaire Derek Carr      Projected: 95.65
+
+Captain: Darren Waller
+Mecole Hardman Patrick Mahomes Clyde Helaire
+Daniel Carlson Derek Carr      Projected: 95.65
+
